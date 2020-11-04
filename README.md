@@ -1,4 +1,9 @@
 # SketchBookPro-2019
+
+I have changed from doing a stand alone munki Installer to using the autopkg recipes by
+moofit here https://github.com/autopkg/moofit-recipes/tree/master/Autodesk. the scripts will not
+be updated.
+
 AutoDesk SketchBook Pro 2019 Munki Installer
 Make sure you check your product key and serial number they may have changed.
 
